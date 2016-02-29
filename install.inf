@@ -1,0 +1,11 @@
+[info]
+title=XML Format
+desc=Formats/indents XML code (uses xmlpp library)
+type=cudatext-plugin
+subdir=cuda_xml_format
+
+[item1]
+section=commands
+caption=XML Format
+method=run
+lexers=XML
